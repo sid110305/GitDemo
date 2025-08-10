@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 <message>Hello from main branch</message>
+=======
+<message>Hello from merged version</message>
+<message>Hello from GitWork branch</message>
+>>>>>>> GitWork
